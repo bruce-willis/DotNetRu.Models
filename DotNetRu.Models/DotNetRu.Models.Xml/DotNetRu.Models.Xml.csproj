@@ -6,7 +6,7 @@
 
   <PropertyGroup>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>0.1</Version>
+    <Version>0.1.1</Version>
     <Authors>DotNetRu;Bruce-Willis</Authors>
     <Company>DotNetRu</Company>
     <Description>Xml models for DotNetRu</Description>

@@ -6,7 +6,7 @@ DotNetRu nuget package with models
 # Содержание
 
 * [Build status](#build-status)
-* [Nuget version](#nuget-version)
+* [Nuget packages](#nuget-packages)
 * [TODO](#todo)
 * [Причины](#причины)
 
@@ -17,18 +17,19 @@ TBD
 
 ***
 
-# Nuget version
-
-TBD
-
-***
+# Nuget packages
+Type  |      Package name       |                                                                     Nuget
+----- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------
+Realm | `DotNetRu.Models.Realm` | [![NuGet](https://img.shields.io/nuget/v/DotNetRu.Models.Realm.svg?style=flat-square)](https://www.nuget.org/packages/DotNetRu.Models.Realm/)
+UI    | `DotNetRu.Models.UI`    | [![NuGet](https://img.shields.io/nuget/v/DotNetRu.Models.UI.svg?style=flat-square)](https://www.nuget.org/packages/DotNetRu.Models.UI/)
+Xml   | `DotNetRu.Models.Xml`   | [![NuGet](https://img.shields.io/nuget/v/DotNetRu.Models.Xml.svg?style=flat-square)](https://www.nuget.org/packages/DotNetRu.Models.Xml/)
 
 # TODO
 
-* [ ] Create nuget package
+* [x] Create nuget packages
 * [ ] Setup CI
 * [ ] Setup CD
-* [ ] Update [RealmGenerator](https://github.com/pfedotovsky/DotNetRu.RealmGenerator)
+* [x] Update [RealmGenerator](https://github.com/pfedotovsky/DotNetRu.RealmGenerator)
 * [ ] Update [mobile app](https://github.com/DotNetRu/App)
 * [ ] Create metapackage
 * [ ] Create converters
