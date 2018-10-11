@@ -4,17 +4,21 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Realm" Version="3.2.1" />
+  </ItemGroup>
+
   <PropertyGroup>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>0.1</Version>
     <Authors>DotNetRu;Bruce-Willis</Authors>
     <Company>DotNetRu</Company>
-    <Description>Xml models for DotNetRu</Description>
+    <Description>Realm models for DotNetRu</Description>
     <PackageLicenseUrl>https://github.com/bruce-willis/DotNetRu.Models/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/bruce-willis/DotNetRu.Models</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/bruce-willis/DotNetRu.Models</RepositoryUrl>
     <PackageIconUrl>https://avatars0.githubusercontent.com/u/28220517?s=200&amp;v=4</PackageIconUrl>
-    <PackageId>DotNetRu.Models.Xml</PackageId>
+    <RepositoryUrl>https://github.com/bruce-willis/DotNetRu.Models</RepositoryUrl>
+    <PackageId>DotNetRu.Models.Realm</PackageId>
   </PropertyGroup>
 
 </Project>
