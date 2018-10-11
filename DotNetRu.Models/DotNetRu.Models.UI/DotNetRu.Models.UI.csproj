@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1</Version>
+    <Authors>DotNetRu;Bruce-Willis</Authors>
+    <Company>DotNetRu</Company>
+    <Description>UI models for DotNetRu</Description>
+    <PackageLicenseUrl>https://github.com/bruce-willis/DotNetRu.Models/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/bruce-willis/DotNetRu.Models</PackageProjectUrl>
+    <PackageIconUrl>https://avatars0.githubusercontent.com/u/28220517?s=200&amp;v=4</PackageIconUrl>
+    <RepositoryUrl>https://github.com/bruce-willis/DotNetRu.Models</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
