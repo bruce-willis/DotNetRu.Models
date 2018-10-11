@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackageId>DotNetRu.Models.Xml</PackageId>
+
+    <Version>0.1</Version>
+
+
+    <Authors>DotNetRu;Bruce-Willis</Authors>
+
+    <Company>DotNetRu</Company>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+    <PackageLicenseUrl>https://github.com/bruce-willis/DotNetRu.Models/blob/master/LICENSE</PackageLicenseUrl>
+
+    <PackageProjectUrl>https://github.com/bruce-willis/DotNetRu.Models</PackageProjectUrl>
+
+    <RepositoryUrl>https://github.com/bruce-willis/DotNetRu.Models</RepositoryUrl>
+
+    <PackageIconUrl>https://avatars0.githubusercontent.com/u/28220517?s=200&amp;v=4</PackageIconUrl>
+
+    <Description>Xml models for DotNetRu</Description>
+
+    <AssemblyName>DotNetRu.Models.Xml</AssemblyName>
+
+    <RootNamespace>DotNetRu.Models.Xml</RootNamespace>
+  </PropertyGroup>
+
+</Project>
